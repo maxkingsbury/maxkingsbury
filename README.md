@@ -1,7 +1,7 @@
-👋 Hi, I'm Max Kingsbury!
+👋 Hi, I'm Max
 
-Welcome to my GitHub! I'm a Computer Science student at Wilfrid Laurier University, 
-passionate about software development, networking, and outdoor adventures. 
+I'm a Computer Science student at Wilfrid Laurier University, 
+passionate about software development, cyber security, and outdoor adventures. 
 
 This is where I showcase my coding projects, collaborate on open-source, 
 and build tools that merge my love for technology and the outdoors.
