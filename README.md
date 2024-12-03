@@ -1,5 +1,4 @@
-👋 Hi, I'm Max
-
+Hi, I'm Max
 I'm a Computer Science student at Wilfrid Laurier University, 
 passionate about software development, cyber security, and outdoor adventures. 
 
