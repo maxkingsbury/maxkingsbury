@@ -12,7 +12,7 @@ and build tools that showcase my love for technology.
 
 - Goals:
     - Build a networking simulation tool to visualize packet routing.
-    - Explore AI/ML for outdoor optimization projects.
+    - Explore AI/ML for optimization projects.
     - Contribute to open-source projects that align with my interests.
 
 - Interests:
