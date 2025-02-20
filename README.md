@@ -1,6 +1,6 @@
-Hi, I'm Max
-I'm a Computer Science student at Wilfrid Laurier University, 
-passionate about software development, cyber security, and outdoor adventures. 
+### Hi, I'm Max
+I'm a CS student at Wilfrid Laurier University, 
+passionate about software dev, cyber security, and outdoor adventures. 
 
 This is where I showcase my coding projects and build tools that showcase my love for technology.
 
