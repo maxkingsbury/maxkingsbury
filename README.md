@@ -4,7 +4,7 @@ passionate about software dev, cyber security, and outdoor adventures.
 
 This is where I showcase my coding projects and build tools that showcase my love for technology.
 
-- Goals:
+- Current goals:
     - Explore AI/ML for optimization projects
     - Contribute to open-source projects that align with my interests
 
