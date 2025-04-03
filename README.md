@@ -7,6 +7,7 @@ This is where I showcase my coding projects and build tools that showcase my lov
 - Current goals:
     - Explore AI/ML for optimization projects
     - Contribute to open-source projects that align with my interests
+    - Expand game programming skills as a hobby
 
 - Interests:
     - Tech: Software development, network systems, and automation
