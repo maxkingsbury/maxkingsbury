@@ -1,8 +1,16 @@
-### Hi, I'm Max
-I'm a CS student at Wilfrid Laurier University, 
-passionate about software dev, cyber security, and outdoor adventures. 
+<h1 align="center"> Hi, I'm Max, and welcome to my profile! 
 
-This is where I showcase my coding projects and build tools that showcase my love for technology.
+![](https://komarev.com/ghpvc/?username=maxkingsbury&color=blueviolet&style=flat-square)
+
+</h1>
+
+<div align="center">
+I'm a CS student at Wilfrid Laurier University, passionate about software dev, cybersecurity, and outdoor adventures. <br>
+This is where I showcase my coding projects and build tools that showcase my love for coding
+</div>
+
+
+
 
 - Current goals:
     - Explore AI/ML for optimization projects
@@ -13,7 +21,7 @@ This is where I showcase my coding projects and build tools that showcase my lov
     - Tech: Software development, network systems, and automation
     - Outdoor Adventures: Certified lead rock climber, paddler, and explorer
 
-- Let's Connect!
+- Connect with me:
     - Email: max.kingsbury00@gmail.com
 
     
