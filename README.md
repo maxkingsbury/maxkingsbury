@@ -6,7 +6,7 @@
 
 <div align="center">
 I'm a CS student at Wilfrid Laurier University, passionate about software dev, cybersecurity, and outdoor adventures. <br>
-This is where I showcase my coding projects and build tools that showcase my love for coding
+This is where I showcase my coding projects and build tools that showcase my love for computer science
 </div>
 
 
