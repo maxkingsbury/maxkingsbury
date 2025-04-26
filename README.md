@@ -1,11 +1,6 @@
-<h1 align="center"> Hi, I'm Max, and welcome to my profile! 
-
-![](https://komarev.com/ghpvc/?username=maxkingsbury&color=blueviolet&style=flat-square)
-
-</h1>
-
+<h1 align="center"> Hi, I'm Max, and welcome to my profile! </h1>
 <div align="center">
-I'm a CS student at Wilfrid Laurier University, passionate about software dev, cybersecurity, and outdoor adventures. <br>
+I'm a CS student at Wilfrid Laurier University, passionate about software development, cybersecurity, and outdoor adventures. <br>
 This is where I showcase my coding projects and build tools that showcase my love for computer science
 </div>
 
@@ -18,7 +13,7 @@ This is where I showcase my coding projects and build tools that showcase my lov
     - Expand game programming skills as a hobby
 
 - Interests:
-    - Tech: Software development, network systems, and automation
+    - Tech: Software development, network systems, automation, and game programming
     - Outdoor Adventures: Certified lead rock climber, paddler, and explorer
 
 - Connect with me:
