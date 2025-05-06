@@ -1,20 +1,15 @@
 <h1 align="center"> Hi, I'm Max, and welcome to my profile! </h1>
 <div align="center">
-I'm a CS student at Wilfrid Laurier University, passionate about software development, cybersecurity, and outdoor adventures. <br>
+I'm a CS student at Wilfrid Laurier University, passionate about software development and cybersecurity. <br>
 This is where I showcase my coding projects and build tools that showcase my love for computer science
 </div>
 
-
-
-
-- Current goals:
-    - Explore AI/ML for optimization projects
-    - Contribute to open-source projects that align with my interests
-    - Expand game programming skills as a hobby
+- Current goal(s):
+    - Expand on my game programming skills
 
 - Interests:
-    - Tech: Software development, network systems, automation, and game programming
-    - Outdoor Adventures: Certified lead rock climber, paddler, and explorer
+    - Software development, network systems, automation, and game programming
+    - Any Outdoor Adventures!
 
 - Connect with me:
     - Email: max.kingsbury00@gmail.com
