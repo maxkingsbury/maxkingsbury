@@ -6,6 +6,7 @@ This is where I showcase my coding projects and build tools that show my love fo
 
 - Current goal(s):
     - Expand on my game programming skills
+    - Work towards CEH certification
 
 - Interests:
     - Software development, network systems, automation, and game programming
