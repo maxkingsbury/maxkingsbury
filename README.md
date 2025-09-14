@@ -9,7 +9,7 @@ This is where I showcase my coding projects and build tools that show my love fo
     - Work towards CEH certification
 
 - Interests:
-    - Software development, network systems, automation, and game programming
+    - Network systems, automation, game programming, and exploit development
     - Any Outdoor Adventures!
 
 - Connect with me:
