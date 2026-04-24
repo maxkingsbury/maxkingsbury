@@ -1,21 +1,33 @@
-<h1 align="center"> Hi, I'm Max, and welcome to my profile! </h1>
+<h1 align="center"> Hi, I'm Max  </h1>
 <div align="center">
-I'm a CS student at Wilfrid Laurier University, passionate about systems programming and cybersecurity. <br>
-This is where I showcase my coding projects and build tools that show my love for computer science.
+Computer Science graduate focused on IT systems, networking, and cybersecurity. I have hands-on experience with system administration, troubleshooting, and security labs, including Active Directory environments and Linux-based systems.
 </div>
 
-- Current goals:
-    - Expand on my game programming skills
-    - Work towards CEH certification
+## 🔧 Skills & Focus
 
-- Interests:
-    - Network Security Systems, Script Automation, Game Programming
-    - Any Outdoor Adventures!
+* System Administration (Windows, Linux)
+* Networking (TCP/IP, DNS, VLANs)
+* Active Directory & Access Control
+* Scripting & Automation (Python, Bash, PowerShell)
+* Security Fundamentals & Log Analysis
 
-- Connect with me:
-    - Email: max.kingsbury00@gmail.com
+## 🚀 Projects
 
-    
+* **Server Threat Detection**
+  Defensive security project simulating attack detection on a modern Linux server.
 
+* **Security Automation Scripts**
+  Bash-based tools for network enumeration and system analysis.
 
-    
+* **Security Lab Writeups**
+  Structured documentation of vulnerability analysis, privilege escalation, and system exploitation in controlled environments.
+
+## 🎯 Current Goals
+
+* Strengthen troubleshooting and IT support skills in a production environment
+* Continue building experience in security monitoring and threat detection
+* Work toward a transition into cybersecurity roles
+
+## 📫 Contact
+
+* Email: [max.kingsbury00@gmail.com](mailto:max.kingsbury00@gmail.com)
