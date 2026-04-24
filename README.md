@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Max  </h1>
+<h1 align="center"> Hi, I'm Max 👋 </h1>
 <div align="center">
 Computer Science graduate focused on IT systems, networking, and cybersecurity. I have hands-on experience with system administration, troubleshooting, and security labs, including Active Directory environments and Linux-based systems.
 </div>
