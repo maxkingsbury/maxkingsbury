@@ -26,7 +26,6 @@ Computer Science graduate focused on IT systems, networking, and cybersecurity. 
 
 * Strengthen troubleshooting and IT support skills in a production environment
 * Continue building experience in security monitoring and threat detection
-* Work toward a transition into cybersecurity roles
 
 ## 📫 Contact
 
