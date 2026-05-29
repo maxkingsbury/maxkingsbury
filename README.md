@@ -20,7 +20,7 @@ Computer Science graduate focused on IT systems, networking, and cybersecurity. 
   Bash-based tools for network enumeration and system analysis.
 
 * **Security Lab Writeups**
-  Structured documentation of vulnerability analysis, privilege escalation, and system exploitation in controlled environments.
+  Structured documentation of vulnerability analysis, privilege escalation prevention, and system discovery in controlled environments.
 
 ## 🎯 Current Goals
 
